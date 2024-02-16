@@ -36,4 +36,7 @@ We reserve the right to update or modify this Privacy Policy at any time. Users 
 
 Contact Us
 
-If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at [Your Contact Information].
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at trivedijayesh2622@gmail.com.
+
+Google Admob, analytics, Firebase, Play game services
+Privacy Policy & opt out
